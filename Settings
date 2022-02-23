@@ -1,0 +1,46 @@
+Settings for data 1:
+
+max_val = 1
+min_val = 0
+population_size = 100
+generations = 200
+rule_number = 10
+tournament_number = 3
+mutation_chance = 0.1
+mutation_amount = 0.2
+rule_mutation_chance = None
+min_rule_number = 1
+max_rule_number = 30
+fold_number = 1
+repeat_times = 10
+data_location = "data/data1.txt"
+
+Settings for data 2:
+
+max_val = 1
+min_val = 0
+population_size = 50
+generations = 400
+tournament_number = 2
+mutation_chance = 0.05
+mutation_amount = 1
+rule_mutation_chance = 1
+min_rule_number = 1
+max_rule_number = 10
+fold_number = 1
+data_location = "data/data2.txt"
+
+Settings for data 3:
+
+max_val = 1
+min_val = 0
+population_size = 50
+generations = 400
+tournament_number = 2
+mutation_chance = 0.05
+mutation_amount = 1
+rule_mutation_chance = 1
+min_rule_number = 1
+max_rule_number = 10
+fold_number = 1
+data_location = "data/data3.txt"
